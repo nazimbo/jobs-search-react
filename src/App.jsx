@@ -9,8 +9,6 @@ const App = () => {
     <>
       <Navbar />
       <Hero />
-      <div className='text-5xl'>App</div>
-      <div className='text-3xl'>Hello {name}!</div>
     </>
   )
 }
